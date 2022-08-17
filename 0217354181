@@ -1,0 +1,8 @@
+#include bdssf
+
+ a b b v n m 20 9
+ b v v n n 0 2 90
+ b c
+
+ net 70 :: cc find 90 ;
+ cc net cc net 05
